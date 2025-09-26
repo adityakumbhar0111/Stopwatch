@@ -1,4 +1,4 @@
-⏱️ Stopwatch App
+<h3>⏱️ Stopwatch App</h3>
 
 A simple and interactive Stopwatch App built with HTML, CSS, and JavaScript. Start, stop, and reset the timer with smooth functionality and a clean UI.
 
@@ -31,8 +31,8 @@ CSS3 – styling
 JavaScript – stopwatch logic
 
 🚀 Run Locally
-git clone https://github.com/yourusername/stopwatch-app.git
-cd stopwatch-app
+git clone https://github.com/yourusername/stopwatch-app.git<br>
+cd stopwatch-app<br>
 open index.html
 
 ✨ Future Improvements
